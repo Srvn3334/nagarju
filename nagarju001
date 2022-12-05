@@ -2,3 +2,6 @@ git
 maven
 tomcat9
 jenkins
+ansible
+doker
+kubernetes
